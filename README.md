@@ -24,20 +24,12 @@ Let's take a look at the structure of this URL:
         * calendar unique identifier ```5h55j6lob39brbg9oo7bu81210```
         * address domain to Google Calendar mail server```@group.calendar.google.com```
         * additonal values relating to the timezone```&ctz=Europe/Warsaw```
+### Sources of URLs of public calendars
+* Public Event Aggreagtor [CrossWeb.pl Where IT Meets](https://crossweb.pl/wydarzenia/)
+* Public Event Aggreagtor [meetup.com](https://www.meetup.com/)
 
 
-
-
-
-
-
-
-
-
-## 📋 Requirements
-Sth.
-
-## ⭐ Features
+## ⭐ Proposed Features
 Introductory sentance.
 
 ⭐ **Feature 1**
@@ -50,12 +42,6 @@ Description of feature 2.
 
 ## 📝 Examples
 **Example 1. Title**
-
-Description of the example.
-```javascript
-CODE GOES HERE
-```
-**Example 2. Title**
 
 Description of the example.
 ```javascript
@@ -84,51 +70,11 @@ Sth
 - [ ] Feature 5
 - [ ] Feature 6
 
-## 🆕 Changelog
-A changelog is a file which contains a curated, chronologically ordered list of notable changes for each version of a project.
-
 ## ⚙ Configurations
 Sth
 
-## 💡 Tips
-💭 **Tip 1**
-
-Description of tip 1.
-
-💭 **Tip 2**
-
-Description of tip 1.
-
-## 🚧 Warnings / Common Errors / Known Issues
-
-⚠️ **Warning 1**
-
-Description of warning 1.
-
-⚠️ **Warning 2**
-
-Description of warning 2.
-
-## 🧰 Troubleshooting
-🚩 **Error 1**
-
-Solution to error 1.
-
-``` SOLUTION CODE ```
-
-🚩 **Error 2**
-
-Solution to error 2.
-
-
-``` SOLUTION CODE ```
-
-## 🚀 Upgrading
-Description.
-
 ## 📖 Documentation
 Link to the wiki or external site.
-
 
 
 ## 📧 Contact
