@@ -30,13 +30,12 @@ Let's take a look at the structure of this URL:
 
 
 ## ⭐ Proposed Features
-Introductory sentance.
 
-⭐ **Feature 1**
-
-Description of feature 1.
-
-⭐ **Feature 2**
+⭐ **User can search for public calendars**
+⭐ **Search options provide multiple filters and other options to customize search results**
+⭐ **User can browse a catalouge of public calendars**
+⭐ **Browsing Feature is implemented with high quality visual front end development**
+⭐ **User can add calendars to Google Calendar App**
 
 Description of feature 2.
 
