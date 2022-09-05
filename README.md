@@ -32,26 +32,19 @@ Let's take a look at the structure of this URL:
 ## ⭐ Proposed Features
 
 ⭐ **User can search for public calendars**
+
 ⭐ **Search options provide multiple filters and other options to customize search results**
+
 ⭐ **User can browse a catalouge of public calendars**
+
 ⭐ **Browsing Feature is implemented with high quality visual front end development**
+
 ⭐ **User can add calendars to Google Calendar App**
 
-Description of feature 2.
-
-## 📝 Examples
-**Example 1. Title**
-
-Description of the example.
-```javascript
-CODE GOES HERE
-```
 
 ## 👨‍💻 Contributing
 Sth
 
-## 📦 Builds
-Sth
 
 ## 📂 Directory Structure
 Sth
@@ -68,9 +61,6 @@ Sth
 - [ ] Feature 4
 - [ ] Feature 5
 - [ ] Feature 6
-
-## ⚙ Configurations
-Sth
 
 ## 📖 Documentation
 Link to the wiki or external site.
