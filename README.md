@@ -42,6 +42,23 @@ Let's take a look at the structure of this URL:
 ⭐ **User can add calendars to Google Calendar App**
 
 
+## 🌌 Programming Fields
+- [ ] Web Scraping
+- [ ] Data Manipulation
+- [ ] Spark Application
+- [ ] Web App Development
+- [ ] API Development
+- [ ] Unit Tests
+- [ ] Python Standard Library
+- [ ] Package Development
+- [ ] Docker for Python Project
+- [ ] noSQL Database (MongoDB)
+- [ ] SCRUM
+- [ ] Project Managment
+- [ ] DataFrame manipulation (Pandas)
+- [ ] Working with JSON data in Python
+
+
 ## 👨‍💻 Contributing
 Sth
 
