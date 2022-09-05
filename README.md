@@ -43,18 +43,16 @@ Let's take a look at the structure of this URL:
 
 
 ## 🌌 Programming Fields
-- [ ] Web Scraping
-- [ ] Data Manipulation
-- [ ] Spark Application
-- [ ] Web App Development
-- [ ] API Development
-- [ ] Unit Tests
+- [ ] Web Scraping (Beautiful Soup)
+- [ ] Spark Application (PySpark)
+- [ ] Web App Development (Flask, Django)
+- [ ] API Development (FastAPI)
+- [ ] Unit Tests (Pytest)
 - [ ] Python Standard Library
 - [ ] Package Development
 - [ ] Docker for Python Project
 - [ ] noSQL Database (MongoDB)
-- [ ] SCRUM
-- [ ] Project Managment
+- [ ] SCRUM & Project Planning/Management
 - [ ] DataFrame manipulation (Pandas)
 - [ ] Working with JSON data in Python
 
