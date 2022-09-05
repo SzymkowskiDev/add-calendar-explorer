@@ -5,10 +5,8 @@
 Subscribe to someone’s Google Calendar
 You can view someone else's calendar if they've shared it with you. You can also request access if they haven't shared their calendar with you yet.
 
-## 🔗 Related Projects / Thanks / References / Acknowledgement 
+## 🔗 Related Projects
 * [Google Calendar](http://markdown.github.io)
-* Description 2 [Name 2](http://markdown.github.io)
-* Description 3 [Name 3](http://markdown.github.io)
 
 ## 🎓 Learning Materials
 * [Google Calendar Help](https://support.google.com/calendar#topic=10509740)
@@ -17,7 +15,8 @@ You can view someone else's calendar if they've shared it with you. You can also
 * Create & subscribe to new calendars [Google Calendar Help](https://support.google.com/calendar/topic/10510242?hl=en&ref_topic=10510447)
 * [Google APIs Explorer](https://developers.google.com/apis-explorer)
 * Google Calendar API [Google APIs Explorer](https://developers.google.com/calendar/api/v3/reference)
-
+### Examples: Public URL to calendars
+* https://calendar.google.com/calendar/embed?src=5h55j6lob39brbg9oo7bu81210%40group.calendar.google.com&ctz=Europe%2FWarsaw
 
 
 
