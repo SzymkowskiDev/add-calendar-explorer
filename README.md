@@ -1,11 +1,33 @@
 
-# Project Title
-📊 Size, dependencies, version, code coverage
+# Add Calendar Explorer
 
-Short description.
 
-## Contents
-Table of contents goes here
+Subscribe to someone’s Google Calendar
+You can view someone else's calendar if they've shared it with you. You can also request access if they haven't shared their calendar with you yet.
+
+## 🔗 Related Projects / Thanks / References / Acknowledgement 
+* [Google Calendar](http://markdown.github.io)
+* Description 2 [Name 2](http://markdown.github.io)
+* Description 3 [Name 3](http://markdown.github.io)
+
+## 🎓 Learning Materials
+* [Google Calendar Help](https://support.google.com/calendar#topic=10509740)
+* Share your calendar with someone [Google Calendar Help](https://support.google.com/calendar/answer/37082?hl=en&ref_topic=10510447)
+* Subscribe to someone’s Google Calendar [Google Calendar Help](https://support.google.com/calendar/answer/37100?hl=en&ref_topic=10510447)
+* Create & subscribe to new calendars [Google Calendar Help](https://support.google.com/calendar/topic/10510242?hl=en&ref_topic=10510447)
+* [Google APIs Explorer](https://developers.google.com/apis-explorer)
+* Google Calendar API [Google APIs Explorer](https://developers.google.com/calendar/api/v3/reference)
+
+
+
+
+
+
+
+
+
+
+
 
 ## 📋 Requirements
 Sth.
@@ -102,15 +124,7 @@ Description.
 ## 📖 Documentation
 Link to the wiki or external site.
 
-## 🔗 Related Projects / Thanks / References / Acknowledgement 
-* Description 1 [Name 1](http://markdown.github.io)
-* Description 2 [Name 2](http://markdown.github.io)
-* Description 3 [Name 3](http://markdown.github.io)
 
-## 🎓 Learning Materials
-* Description 1 [Name 1](http://markdown.github.io)
-* Description 2 [Name 2](http://markdown.github.io)
-* Description 3 [Name 3](http://markdown.github.io)
 
 ## 📧 Contact
 [![](https://img.shields.io/twitter/url?label=/kamil-szymkowski/&logo=linkedin&logoColor=%230077B5&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkamil-szymkowski%2F)](https://www.linkedin.com/in/kamil-szymkowski/) [![](https://img.shields.io/twitter/url?label=@szymkowskidev&logo=medium&logoColor=%23292929&style=social&url=https%3A%2F%2Fmedium.com%2F%40szymkowskidev)](https://medium.com/@szymkowskidev) [![](https://img.shields.io/twitter/url?label=/SzymkowskiDev&logo=github&logoColor=%23292929&style=social&url=https%3A%2F%2Fgithub.com%2FSzymkowskiDev)](https://github.com/SzymkowskiDev)
