@@ -17,7 +17,13 @@ You can view someone else's calendar if they've shared it with you. You can also
 * Google Calendar API [Google APIs Explorer](https://developers.google.com/calendar/api/v3/reference)
 ### Examples: Public URL to calendars
 * https://calendar.google.com/calendar/embed?src=5h55j6lob39brbg9oo7bu81210%40group.calendar.google.com&ctz=Europe%2FWarsaw
-
+Let's take a look at the structure of this URL:
+``embed?src=5h55j6lob39brbg9oo7bu81210@group.calendar.google.com&ctz=Europe/Warsaw`` we can seperate it into:
+    * src parameter ```embed?src=```
+    * value provided to the src parameter```5h55j6lob39brbg9oo7bu81210@group.calendar.google.com&ctz=Europe/Warsaw```
+        * calendar unique identifier ```5h55j6lob39brbg9oo7bu81210```
+        * address domain to Google Calendar mail server```@group.calendar.google.com```
+        * additonal values relating to the timezone```&ctz=Europe/Warsaw```
 
 
 
